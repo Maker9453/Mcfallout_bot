@@ -1,0 +1,23 @@
+{
+  "name": "mcfallout_bot",
+  "version": "1.0.0",
+  "description": "Just A MC Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maker9453/Mcfallout_bot.git"
+  },
+  "author": "Maker9453",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maker9453/Mcfallout_bot/issues"
+  },
+  "homepage": "https://github.com/Maker9453/Mcfallout_bot#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "mineflayer": "^3.6.0"
+  }
+}
