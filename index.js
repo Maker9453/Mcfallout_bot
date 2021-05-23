@@ -7,6 +7,7 @@ try{
     username: "hackerboss32029034@gmail.com",
     password: "sam32029034",
   })
+  fs.readFile("setting.json",() => {})
 
   bot.once("spawn",() => {
     bot.chat("嗨 YenKa305")
